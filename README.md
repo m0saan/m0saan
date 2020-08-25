@@ -17,6 +17,6 @@
 - 💬 If you need something, will be a pleasure help you.
 - 🎧 Listening to: Linkin park/Twenty One Pilots/RADWIMPS 
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I'm a weeb
+- ⚡ Fun fact: Boku wa weeb desu!
 
 Interests in research and project development envolving mobile (IOS Apps), competitive programming, AI/ML, electronics, internet of things, arduino, raspberry pi
