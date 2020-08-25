@@ -8,10 +8,6 @@
 <a href="https://stackoverflow.com/users/11226041" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white" alt="Stackoverflow"></a>
 </div>
 
-
-<!--
-**MoBoustta/MOBoustta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <b> 👨🏻‍🦱 (curly hair creative technologist)™ </b>
 
 - 🌱 I’m currently learning AI/ML 
@@ -24,5 +20,3 @@
 - ⚡ Fun fact: I'm a weeb
 
 Interests in research and project development envolving mobile (IOS Apps), competitive programming, AI/ML, electronics, internet of things, arduino, raspberry pi
-
--->
