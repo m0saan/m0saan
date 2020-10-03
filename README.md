@@ -11,12 +11,11 @@
 <b> 👨🏻‍🦱 (curly hair creative technologist)™ </b>
 
 - 🌱 I’m currently learning AI/ML 
-- 👯 I’m looking to collaborate on tensorflow / OpenCV
 - ⚡️  I’m always experimenting and shadowing, mixing programming languages and trying to hack things.
 - 🎓 I’m pursing my studies in CS at [1337](https://1337.ma).
 - 💬 If you need something, will be a pleasure help you.
-- 🎧 Listening to: Linkin park/Twenty One Pilots/RADWIMPS 
+- 🎧 Listening to: [ "Linkin park", "Kenshi Yonezu", "RADWIMPS ]
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: Boku wa weeb desu!
+- ⚡ Fun fact: weeb desu yo!
 
 Interests in research and project development envolving mobile (IOS Apps), competitive programming, AI/ML, electronics, internet of things, arduino, raspberry pi
