@@ -10,7 +10,7 @@
 
 <b> 👨🏻‍🦱 (curly hair creative technologist)™ </b>
 
-- 🌱 I’m currently learning AI/ML 
+- 🌱 I’m currently learning Data Structures, Algorithms and Concrete Mathematics
 - ⚡️  I’m always experimenting and shadowing, mixing programming languages and trying to hack things.
 - 🎓 I’m pursing my studies in CS at [1337](https://1337.ma).
 - 💬 If you need something, will be a pleasure help you.
