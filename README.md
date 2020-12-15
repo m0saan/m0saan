@@ -1,4 +1,4 @@
-### Hi 👋, my name is MO Boustta! 
+## Hi 👋, my name is MO Boustta!
 
 
 <img align="right" width="250" src="https://raw.githubusercontent.com/ezefranca/ezefranca/master/octocat2.png"/>
@@ -21,7 +21,7 @@
 Interests in research and project development envolving mobile (IOS Apps), competitive programming, AI/ML, electronics, internet of things, arduino, raspberry pi
 
 
-### My GitHub Stats
+## My GitHub Stats
 
 <img align="left" alt="abdlalisalmi Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoBoustta&show_icons=true&hide_border=true&hide_title=true&icon_color=17D778&bg_color=0d1117&text_color=e1e4e8" />
 
