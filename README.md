@@ -21,8 +21,10 @@
 Interests in research and project development envolving mobile (IOS Apps), competitive programming, AI/ML, electronics, internet of things, arduino, raspberry pi
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=MoBoustta&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+### My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=MoBoustta&show_icons=true&hide_title=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoBoustta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoBoustta&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
