@@ -25,8 +25,5 @@ Interests in research and project development envolving mobile (IOS Apps), compe
 
 <img src="https://github-readme-stats.vercel.app/api?username=MoBoustta&show_icons=true&hide_title=true" alt="logo" align="left" />
 
-<hr />
-<p></p>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoBoustta&layout=compact&hide_title=true" alt="logo" align="left" />
 
