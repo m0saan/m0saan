@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/MoBoustta?template=classic&tweets=1&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Africa%2FCasablanca&config.animated=true)
+![Metrics](https://metrics.lecoq.io/MoBoustta?template=classic&activity=1&languages=1&introduction=1&tweets=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&introduction.title=true&languages.colors=github&languages.threshold=0%25&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Africa%2FCasablanca)
