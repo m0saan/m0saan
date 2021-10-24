@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **moboustt@student.1337.ma**
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/M0-san/M0-san/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
