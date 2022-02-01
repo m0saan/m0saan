@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MO</h1>
-<h3 align="center">Motivated computer science student, [C/C++, Go, Python] with mission-driven nature. I truly believe tech can help people and the planet as a whole if done right</h3>
+<p align="center">Motivated computer science student, [C/C++, Go, Python] with mission-driven nature. I truly believe tech can help people and the planet as a whole if done right</p>
 
 <img align="right" alt="GIF" src="https://github.com/M0-san/M0-san/blob/master/coding.gif?raw=true" width="408" height="318" />
 
