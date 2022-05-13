@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/boustta_mo" target="blank"><img src="https://img.shields.io/twitter/follow/boustta_mo?logo=twitter&style=for-the-badge" alt="boustta_mo" /></a> </p>
 
-- 🔭 I’m currently working on [ft_transcendence](https://github.com/m0san/ft_transcendence/tree/main)
+- 🔭 I’m currently working as a **Research Assistant on PGX as an Intern**
 
-- 🌱 I’m currently learning **Go/back-end && Building my own Blockchain from scratch**
+- 🌱 I’m currently learning **Data Structures/Algorithms & Discrete Maths**
 
 - 💬 Ask me about **[C,C++,Go,JS,TS]**
 
