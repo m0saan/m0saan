@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/boustta_mo" target="blank"><img src="https://img.shields.io/twitter/follow/boustta_mo?logo=twitter&style=for-the-badge" alt="boustta_mo" /></a> </p>
 
-- 🔭 I’m currently working as a **Research Assistant on PGX as an Intern**
+- 🔭 I’m currently working as a **Research Assistant at Oracle**
 
-- 🌱 I’m currently learning **Data Structures/Algorithms & Discrete Maths**
+- 🌱 I’m currently learning **Machine Learning/Deep Learning**
 
-- 💬 Ask me about **[C,C++,Go,JS,TS]**
+- 💬 Ask me about **[C,C++,Python,Go,TS]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
