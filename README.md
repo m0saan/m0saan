@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/boustta_mo" target="blank"><img src="https://img.shields.io/twitter/follow/boustta_mo?logo=twitter&style=for-the-badge" alt="boustta_mo" /></a> </p>
 
-- 🔭 I’m currently working as a **Research Assistant at Oracle**
+- 🔭 I’m currently working as a **Junior Member of Technical Staff @Oracle**
 
-- 🌱 I’m currently learning **Machine Learning/Deep Learning**
+- 🌱 I’m currently learning **ML/DL**
 
 - 💬 Ask me about **[C,C++,Python,Go,TS]**
 
