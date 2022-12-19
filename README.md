@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ML/DL**
 
-- 💬 Ask me about **[C,C++,Python,Go,TS]**
+- 💬 Ask me about **[C,C++,Python,Rust,TS]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
