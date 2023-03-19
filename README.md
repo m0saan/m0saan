@@ -4,14 +4,6 @@ Junior Member of Technical Staff @Oracle | Curly hair creative technologist desc
 
 <img align="right" alt="GIF" src="https://github.com/m0san/m0san/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-<p align="left"> <a href="https://twitter.com/boustta_mo" target="blank"><img src="https://img.shields.io/twitter/follow/boustta_mo?logo=twitter&style=for-the-badge" alt="boustta_mo" /></a> </p>
-
-- 🔭 I’m currently working as a **Junior Member of Technical Staff @Oracle**
-
-- 🌱 I’m currently learning **ML/DL**
-
-- 💬 Ask me about **[C,C++,Python,Rust,TS]**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/boustta_mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boustta_mo" height="30" width="40" /></a>
@@ -29,16 +21,9 @@ Junior Member of Technical Staff @Oracle | Curly hair creative technologist desc
 ![](https://github-readme-streak-stats.herokuapp.com/?user=m0saan&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m0saan&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=boustta_mo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=m0saan&icon=3&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
